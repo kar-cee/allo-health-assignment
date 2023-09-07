@@ -19,3 +19,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.
 after loaded, click on the tag to filter accordingly
 
+![screenshot of ui](/Screenshots/Screenshot%20(155).png)
+![screenshot of ui](/Screenshots//Screenshot%20(156).png)
+
