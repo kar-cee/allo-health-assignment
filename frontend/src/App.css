@@ -1,0 +1,14 @@
+.webBody{
+    display: flex;
+    flex-direction: row;
+}
+
+.navBtn>button{
+    border-radius: 50px;
+    
+}
+/* following is styling for button of footer */
+/* .pagination> .MuiButton-outlined{
+    min-width: 1rem;
+} */
+
